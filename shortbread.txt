@@ -1,0 +1,7 @@
+Ingredients
+ - flour
+ - sugar
+ - etc
+
+Instructions:
+ - mix ingredients
